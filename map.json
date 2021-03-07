@@ -63,12 +63,6 @@
          "id":17,
          "name":"Jitsi",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"https:\/\/wechange.de\/project\/buendische-akademie-hauptausschuss\/event\/telko-17\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
